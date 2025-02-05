@@ -3,7 +3,8 @@
 ## Overview
 This project analyzes COVID-19 case data using SQL. It includes queries for data exploration, trend analysis, and insights into infection rates, recovery, and mortality. The dataset consists of global COVID-19 cases recorded over time, allowing us to gain valuable insights into the pandemic.
 
-![Covid data] (https://github.com/Zeetwo/Covid_Cases_SQL/blob/main/COVID_img.png)
+![alt text](https://github.com/Zeetwo/Covid_Cases_SQL/blob/main/COVID_img.png)
+
 ## Features
 - **Data Cleaning**: Handling missing values, duplicates, and inconsistencies.
 - **Exploratory Data Analysis (EDA)**: Analyzing trends in infections, recoveries, and deaths.
